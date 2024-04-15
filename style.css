@@ -1,4 +1,41 @@
-header{
-    background-color: blueviolet
-    color:aquamarine;
+header* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho {
+    background-color: #5F0F40;
+    display:flex;
+    padding: 24px 0;
+    justify-content:space-around;
+    align-items: center;
+    }
+
+.cabeçalho-título {
+    color: #FA725A;
+    font-size: 48px;
+}
+
+.cabeçalho-lista {
+    color: white;
+    font-size: 24px;
+}
+
+.cabeçalho-lista-item1{
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.cabeçalho-lista-item2 {
+    display: inline-block;
+    margin:0 16px;
+}
+
+.cabeçalho-imagem {
+    width: 10%;
+}
+
+
+.Apresentação-imagem {
+    width: 25%;
 }
