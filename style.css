@@ -4,7 +4,7 @@ header* {
 }
 
 .cabeçalho {
-    background-color: #0d4242;
+    background-color: #094a78;
     display:flex;
     padding: 24px 0;
     justify-content:space-around;
@@ -12,7 +12,7 @@ header* {
     }
 
 .cabeçalho-título {
-    color: #FA725A;
+    color: #ced3cd;
     font-size: 48px;
 }
 
