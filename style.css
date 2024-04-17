@@ -4,7 +4,7 @@ header* {
 }
 
 .cabeçalho {
-    background-color: #094a78;
+    background-color: #46abf3;
     display:flex;
     padding: 24px 0;
     justify-content:space-around;
@@ -12,7 +12,7 @@ header* {
     }
 
 .cabeçalho-título {
-    color:  white
+    color:  white;
     font-size: 48px;
 }
 
@@ -37,5 +37,5 @@ header* {
 
 
 .Apresentação-imagem {
-    width: 15%;
+    width: 30%;
 }
