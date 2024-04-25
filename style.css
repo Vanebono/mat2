@@ -39,6 +39,7 @@ header* {
 .Apresentação-imagem {
     width: 10%;
 }
-.Apresentação{
-    background-image: 
+.Apresentação{ 
+    background-color: #46abf3;
+    color: black;
 }
