@@ -34,7 +34,7 @@ header* {
 .cabeçalho-imagem {
     width: 10%;
     background-image: linear-gradient(#5F0F40, #C51F85);
-    color: white;
+    color: rgb(141, 15, 158);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -45,11 +45,12 @@ header* {
 }
 .Apresentação { 
     background-color: #46abf3;
+
     color: black;
 }
 .Apresentação {
     background-image: linear-gradient(#5F0F40, #C51F85);
-    color: white;
+    color: rgb(110, 7, 97);
     display: flex;
     justify-content: center;
     align-items: center;
