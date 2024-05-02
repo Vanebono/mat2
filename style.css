@@ -12,12 +12,12 @@ header* {
     }
 
 .cabeçalho-título {
-    color:  white;
+    color:  rgb(71, 5, 42);
     font-size: 60px;
 }
 
 .cabeçalho-lista {
-    color: white;
+    color: rgb(65, 4, 46);
     font-size: 48px;
 }
 
@@ -33,7 +33,7 @@ header* {
 
 .cabeçalho-imagem {
     width: 10%;
-    background-image: linear-gradient(#5F0F40, #C51F85);
+    background-image: linear-gradient(#44042b, #d64ca1);
     color: rgb(141, 15, 158);
     display: flex;
     justify-content: center;
